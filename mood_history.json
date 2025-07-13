@@ -1,0 +1,254 @@
+[
+    {
+        "timestamp": "2025-07-13 01:00:01",
+        "mood": "joy",
+        "category": "toys",
+        "adjusted_category": "toys",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 01:32:48",
+        "mood": "joy",
+        "category": "toys",
+        "adjusted_category": "collectibles or hobby kits for adults",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 01:33:03",
+        "mood": "joy",
+        "category": "toys",
+        "adjusted_category": "collectibles or hobby kits for adults",
+        "interest": "Technology",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 01:34:10",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 01:40:03",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 01:48:37",
+        "mood": "joy",
+        "category": "toys",
+        "adjusted_category": "collectibles or hobby kits for adults",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 01:48:49",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 02:01:19",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "General",
+        "age": 25,
+        "gender": "Male"
+    },
+    {
+        "timestamp": "2025-07-13 02:08:32",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 02:08:57",
+        "mood": "joy",
+        "category": "toys",
+        "adjusted_category": "collectibles or hobby kits for adults",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 02:09:12",
+        "mood": "anger",
+        "category": "boxing gloves",
+        "adjusted_category": "boxing gloves",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 02:09:34",
+        "mood": "boredom",
+        "category": "games",
+        "adjusted_category": "games",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 02:15:33",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 02:18:25",
+        "mood": "boredom",
+        "category": "games",
+        "adjusted_category": "games",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 02:18:50",
+        "mood": "joy",
+        "category": "toys",
+        "adjusted_category": "collectibles or hobby kits for adults",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 20:21:44",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "General",
+        "age": 25,
+        "gender": "Prefer not to say"
+    },
+    {
+        "timestamp": "2025-07-13 20:22:33",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "General",
+        "age": 25,
+        "gender": "Prefer not to say"
+    },
+    {
+        "timestamp": "2025-07-13 20:22:48",
+        "mood": "joy",
+        "category": "toys",
+        "adjusted_category": "collectibles or hobby kits for adults",
+        "interest": "General",
+        "age": 25,
+        "gender": "Prefer not to say"
+    },
+    {
+        "timestamp": "2025-07-13 20:23:04",
+        "mood": "joy",
+        "category": "toys",
+        "adjusted_category": "collectibles or hobby kits for adults",
+        "interest": "General",
+        "age": 25,
+        "gender": "Prefer not to say"
+    },
+    {
+        "timestamp": "2025-07-13 20:28:57",
+        "mood": "joy",
+        "category": "toys",
+        "adjusted_category": "collectibles or hobby kits for adults",
+        "interest": "Fashion",
+        "age": 20,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 20:55:47",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "General",
+        "age": 27,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 20:56:11",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "Home Decor",
+        "age": 27,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-13 21:17:42",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "General",
+        "age": 24,
+        "gender": "Prefer not to say"
+    },
+    {
+        "timestamp": "2025-07-13 21:17:54",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "Fashion",
+        "age": 24,
+        "gender": "Prefer not to say"
+    },
+    {
+        "timestamp": "2025-07-14 00:07:34",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "General",
+        "age": 25,
+        "gender": "Prefer not to say"
+    },
+    {
+        "timestamp": "2025-07-14 00:08:03",
+        "mood": "sadness",
+        "category": "books",
+        "adjusted_category": "inspirational books",
+        "interest": "Fashion",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-14 00:09:28",
+        "mood": "joy",
+        "category": "toys",
+        "adjusted_category": "collectibles or hobby kits for adults",
+        "interest": "Home Decor",
+        "age": 25,
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2025-07-14 00:11:18",
+        "mood": "joy",
+        "category": "toys",
+        "adjusted_category": "collectibles or hobby kits for adults",
+        "interest": "General",
+        "age": 25,
+        "gender": "Female"
+    }
+]
